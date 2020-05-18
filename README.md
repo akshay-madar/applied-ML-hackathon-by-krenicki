@@ -1,2 +1,4 @@
-# applied-ML-hackathon-by-krenicki
-Cloud based ML framework to predict US household income for real-estate brokerage firm
+# Applied Machine Learning Hackathon by Krenicki Center at Krannert
+Original file is located at: https://colab.research.google.com/drive/1saDlVpwlR1Eg1KfGKfb0Iu_8YYnDykOR?usp=sharing
+
+
