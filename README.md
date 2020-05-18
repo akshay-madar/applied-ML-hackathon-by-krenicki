@@ -1,4 +1,4 @@
-# Applied Machine Learning Hackathon by Krenicki Center at Krannert
+# Applied Machine Learning Hackathon by Krenicki Center at Krannert ahd Google
 Original file is located at: https://colab.research.google.com/drive/1saDlVpwlR1Eg1KfGKfb0Iu_8YYnDykOR?usp=sharing
 
 * Awarded 1st position for implementing cloud based ML framework to predict US household income for real-estate brokerage firm
