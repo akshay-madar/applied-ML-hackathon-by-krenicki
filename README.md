@@ -6,7 +6,14 @@ Original file is located at: https://colab.research.google.com/drive/1saDlVpwlR1
 
 ## BAIM team wins hackathon with Krenicki Center for Business Analytics and Machine Learning:
 **Official Krannert News featured on** - https://krannert.purdue.edu/news/features/?story=5773
+
+**Purdue Krenicki Center for BA and ML tweets - @PurdueKrenicki:**
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Abhishek Kumar, Technical Lead at Google AI, discussing <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> for decision making at <a href="https://twitter.com/PurdueKrannert?ref_src=twsrc%5Etfw">@PurdueKrannert</a>. The event is organized by <a href="https://twitter.com/PurdueKrenicki?ref_src=twsrc%5Etfw">@PurdueKrenicki</a>. It also consists of a hackathon in which 42 MS-BAIM students participate. <a href="https://t.co/AoEe0xAW6S">pic.twitter.com/AoEe0xAW6S</a></p>&mdash; Purdue Krenicki Center for BA and ML (@PurdueKrenicki) <a href="https://twitter.com/PurdueKrenicki/status/1187712241208037377?ref_src=twsrc%5Etfw">October 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Purdue MBA tweets - @PurdueMBA:**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A team of MS Business Analytics &amp; Information Management program students, Akshay Madar, Robin Jindal, Karthik, Dibyamshu Shrestha, and Mehul Zawar, won the Applied Machine Learning Hackathon hosted by Krenicki Center last week! Great job team! <a href="https://twitter.com/hashtag/BoilerUp?src=hash&amp;ref_src=twsrc%5Etfw">#BoilerUp</a>! <a href="https://t.co/bssruNkIxb">pic.twitter.com/bssruNkIxb</a></p>&mdash; Purdue MBA (@PurdueMBA) <a href="https://twitter.com/PurdueMBA/status/1190253859270213632?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Machine Learning algorithms used: 
 Logistic Regression, SVM, Decision Tree, Random Forest, Neural Networks
