@@ -13,7 +13,7 @@ Original file is located at: https://colab.research.google.com/drive/1saDlVpwlR1
 
 **Purdue MBA tweets - @PurdueMBA:**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A team of MS Business Analytics &amp; Information Management program students, Akshay Madar, Robin Jindal, Karthik, Dibyamshu Shrestha, and Mehul Zawar, won the Applied Machine Learning Hackathon hosted by Krenicki Center last week! Great job team! <a href="https://twitter.com/hashtag/BoilerUp?src=hash&amp;ref_src=twsrc%5Etfw">#BoilerUp</a>! <a href="https://t.co/bssruNkIxb">pic.twitter.com/bssruNkIxb</a></p>&mdash; Purdue MBA (@PurdueMBA) <a href="https://twitter.com/PurdueMBA/status/1190253859270213632?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A team of MS Business Analytics &amp; Information Management program students, Akshay Madar, Robin Jindal, Karthik, Dibyamshu Shrestha, and Mehul Zawar, won the Applied Machine Learning Hackathon hosted by Krenicki Center last week! Great job team! <a href="https://twitter.com/hashtag/BoilerUp?src=hash&amp;ref_src=twsrc%5Etfw">#BoilerUp</a>! <a href="https://t.co/bssruNkIxb">pic.twitter.com/bssruNkIxb</a></p>&mdash; Purdue MBA (@PurdueMBA) <a href="https://twitter.com/PurdueMBA/status/1190253859270213632?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> 
 
 ## Machine Learning algorithms used: 
 Logistic Regression, SVM, Decision Tree, Random Forest, Neural Networks
@@ -23,6 +23,7 @@ Colaboratory, or **"Colab"** for short, allows you to write and execute Python i
 * Zero configuration required
 * Free access to GPUs
 * Easy sharing
+
 Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier. You can also harness the full power of popular Python libraries to analyze and visualize data.
 
 ## Why Amazon S3?
@@ -31,8 +32,8 @@ Amazon Simple Storage Service (Amazon **S3**) is an object storage service that 
 ## Boto 3:
 Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
 
+**Set up Boto credentials to pull data from S3:**
 ```
-#@title Set up Boto credentials to pull data from S3
  import boto3  
  import botocore  
  BUCKET_NAME = 'amazing-bucket-am-1' # replace with your bucket name
@@ -42,8 +43,8 @@ Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python develope
  s3 = boto3.resource('s3', aws_access_key_id = 'ENTER YOUR ACCESS KEY', aws_secret_access_key= 'ENTER YOUR SECRET KEY')  
  ```
  
+ **Download "training.csv" from S3:**
  ```
-  #@title Download "training.csv" from S3
  KEY = 'hackathon/training.csv' # replace with your object key  
 
  try:  
